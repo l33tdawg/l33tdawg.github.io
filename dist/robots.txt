@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://l33tdawg.github.io/sitemap.xml

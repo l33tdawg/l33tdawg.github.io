@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+ <defs><style>@font-face{font-family:Grotesk;src:url("fonts/SpaceGrotesk.ttf");font-weight:300 700}@font-face{font-family:Mono;src:url("fonts/GeistMono.ttf");font-weight:100 900}text{font-family:Grotesk,Arial,sans-serif}.mono{font-family:Mono,monospace}</style><filter id="mono"><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncR type="linear" slope="1.16" intercept="-.08"/><feFuncG type="linear" slope="1.16" intercept="-.08"/><feFuncB type="linear" slope="1.16" intercept="-.08"/></feComponentTransfer></filter><clipPath id="portrait-box"><rect x="657" y="138" width="487" height="246"/></clipPath></defs>
+ <rect width="1200" height="630" fill="#fff"/>
+ <text x="56" y="60" fill="#111" font-size="32" font-weight="700" letter-spacing="-2">l33t/dawg.</text>
+ <text class="mono" x="1144" y="55" fill="#111" font-size="10" text-anchor="end" letter-spacing="1">DHILLON ANDREW KANNABHIRAN</text>
+ <path d="M56 88H1144M56 550H1144" stroke="#111"/>
+ <text x="52" y="209" fill="#111" font-size="100" font-weight="700" letter-spacing="-7">HACKER.</text>
+ <text x="52" y="307" fill="#111" font-size="100" font-weight="700" letter-spacing="-7">MAKER.</text>
+ <text x="52" y="405" fill="#111" font-size="100" font-weight="700" letter-spacing="-7">BUILDER <tspan font-weight="400">&amp;</tspan></text>
+ <text x="52" y="503" fill="#111" font-size="100" font-weight="700" letter-spacing="-7">BREAKER.</text>
+ <path d="M657 135H1144M657 390H1144" stroke="#111"/>
+ <text class="mono" x="657" y="120" fill="#111" font-size="10" letter-spacing="1">L33T / DAWG</text>
+ <text class="mono" x="1144" y="120" fill="#111" font-size="10" text-anchor="end">2026</text>
+ <circle cx="900" cy="262" r="114" fill="#f2f2f2" stroke="#111"/>
+ <image href="dhankasounds-cutout.png" x="790" y="138" width="220" height="314" clip-path="url(#portrait-box)" filter="url(#mono)" preserveAspectRatio="xMidYMin meet"/>
+ <text x="657" y="432" fill="#333" font-size="18">Memory for AI. Networks that travel further.</text>
+ <text x="657" y="460" fill="#333" font-size="18">Intelligence more people can use.</text>
+ <text class="mono" x="657" y="505" fill="#111" font-size="11">DHANKA / LIVE MODULAR TECHNO</text>
+ <text class="mono" x="56" y="591" fill="#111" font-size="11" letter-spacing=".2">SAGE FOUNDATION · SAGE · LANTERN · MESHTICULUM · MYNAH</text>
+ <text class="mono" x="1144" y="591" fill="#111" font-size="12" text-anchor="end">l33tdawg.github.io ↗</text>
+</svg>
